@@ -15,10 +15,10 @@ I'm from Mexico 🇲🇽, currently in CST 🌎. I'm a huge fan of Python Librar
 
 ## 🌱 I’m currently learning
 
-[![japanese flag](https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321)](https://www.duolingo.com/profile/vallejo.cvl)
+[<img src="https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321" height="150px">](https://www.duolingo.com/profile/vallejo.cvl)
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:vallejo.cvl@me.com)
-[<img src="assets/discord.png" height="50px">](https://discordapp.com/users/318603168822984716)
-[<img src="assets/x.png" height="50px">](https://x.com/vallejocvl)
+[<img src="https://png.pngtree.com/png-clipart/20240318/original/pngtree-white-envelope-png-file-png-image_14619774.png" height="50px">](mailto:vallejo.cvl@me.com)
+[<img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png" height="50px">](https://discordapp.com/users/318603168822984716)
+[<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012024/twitter-x.png?ygedzLyTIx3bQKPfMQWVnHNsjljcpFJT&itok=0a3okSgI" height="50px">](https://x.com/vallejocvl)
