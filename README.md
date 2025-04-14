@@ -15,7 +15,7 @@ I'm from Mexico 🇲🇽, currently in CST 🌎. I'm a huge fan of Python Librar
 
 ## 🌱 I’m currently learning
 
-[![japanese flag](assets/japanese-flag-round.svg)](https://www.duolingo.com/profile/vallejo.cvl)
+[![japanese flag](https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321)](https://www.duolingo.com/profile/vallejo.cvl)
 
 ## 📫 How to reach me
 
