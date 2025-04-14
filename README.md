@@ -12,11 +12,15 @@
 
 I'm from Mexico 🇲🇽, currently in CST 🌎. I'm a huge fan of Python Libraries and applying them for data science 💻. When I'm not studying I can be found playing padel 🎾 or lifting weights 🏋️. Dog & Cat Lover 🐶🐱.
 
-
 ## 🌱 I’m currently learning
 
-[<img src="https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321" height="150px">](https://www.duolingo.com/profile/vallejo.cvl)
+[<img src="https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321" height="100">](https://www.duolingo.com/profile/vallejo.cvl)
 
+### 🌎 Languages
+
+- 🇪🇸 Spanish [Native]
+- 🇺🇸 English [C2]
+  
 ## 📫 How to reach me
 
 [<img src="https://png.pngtree.com/png-clipart/20240318/original/pngtree-white-envelope-png-file-png-image_14619774.png" height="50px">](mailto:vallejo.cvl@me.com)
