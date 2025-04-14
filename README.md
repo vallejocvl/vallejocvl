@@ -10,7 +10,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=vallejocvl&color=red)
 
-I'm from Mexico 🇲🇽, currently in CST 🌎. I'm a huge fan of Python Libraries and applying them for data science 💻. When I'm not studying I can be found playing padel 🎾 or lifting weights 🏋️. Dog & Cat Lover 🐶🐱.
+I'm from Mexico 🇲🇽, currently in CST 🌎. I'm an aspiring Data Scientist and loving Python's libraries 💻. When I'm not studying I can be found playing guitar 🎸, gaming 🕹️, playing padel 🎾 or lifting weights 🏋️. Dog & Cat Lover 🐶🐱. Self-made chef 🧑‍🍳.
 
 ## 🌱 I’m currently learning
 
@@ -20,6 +20,7 @@ I'm from Mexico 🇲🇽, currently in CST 🌎. I'm a huge fan of Python Librar
 
 - 🇪🇸 Spanish [Native]
 - 🇺🇸 English [C2]
+- 🇯🇵 Japanese [In Progress]
   
 ## 📫 How to reach me
 
